@@ -1,0 +1,22 @@
+{
+  "name": "return-sum",
+  "version": "1.1.0",
+  "description": "This is a math package , it can add up multiple numbers and return a sum.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gn01792218/sum.git"
+  },
+  "keywords": [
+    "sum"
+  ],
+  "author": "gn01792218",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gn01792218/sum/issues"
+  },
+  "homepage": "https://github.com/gn01792218/sum#readme"
+}
